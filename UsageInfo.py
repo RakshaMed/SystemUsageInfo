@@ -197,3 +197,4 @@ if __name__ == "__main__":
     network_info()
     # disk_info()
     cpu_info()
+    print("check")
